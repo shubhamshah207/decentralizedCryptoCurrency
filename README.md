@@ -51,4 +51,7 @@ Chain of Blocks
 	Switched the hexadecimal character-based difficulty criteria to a more fine-grained binary bit-based difficulty criteria.
 
 	Prevented a potential difficulty jump attack by adding extra validation for the blockchain.
+	
+We already have added the comments with code which can help understand it. Please have a look at it. 
+
 
