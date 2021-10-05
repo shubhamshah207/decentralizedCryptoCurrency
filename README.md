@@ -1,4 +1,4 @@
-# decentralizedCryptoCurrency
+# Decentralized 
 Node Js to develop the blockchain and crypto currency backend.
 
 Block:
@@ -14,7 +14,7 @@ BlockChain:
 Chain of Blocks
 
 
-->
+
 	Set up the overall blockchain application.
 
 	Created the basic building block of the blockchain - with blocks themselves!
@@ -29,7 +29,9 @@ Chain of Blocks
 
 	Applied the hash to mine a block
 
-->
+
+
+
 	Created the fundamental blockchain class.
 
 	Developed functionality to validate the blockchain, to allow for chain replacement.
@@ -38,7 +40,8 @@ Chain of Blocks
 
 	Investigated stubbing console output in tests to keep the output clean.
 
-->
+
+
 	Implemented the proof of work system by adding a difficulty and nonce value to each block.
 
 	Adjusted the difficulty for a block to ensure that blocks are mined at a rate which approaches a set mining rate for the system.
