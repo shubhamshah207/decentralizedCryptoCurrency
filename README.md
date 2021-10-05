@@ -1,4 +1,4 @@
-# Decentralized 
+# Decentralized Crypto Currency
 Node Js to develop the blockchain and crypto currency backend.
 
 Block:
